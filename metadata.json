@@ -1,0 +1,6 @@
+{
+  "name": "KuroStream",
+  "description": "Stream anime online for free with KuroStream. High quality anime episodes, multiple servers, bookmarks, and watch history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
